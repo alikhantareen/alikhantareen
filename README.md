@@ -5,8 +5,6 @@
 - 🤝 Open to collaborating on innovative projects that enhance my expertise and create real-world impact.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-iftikhar-445530136/)
 
-.
-
 <!---
 alikhantareen/alikhantareen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
