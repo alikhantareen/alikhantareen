@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @alikhantareen.
-- 👀 I’m interested in coding and problem solving.
-- 🌱 I’m currently working as a JavaScript Developer since January 2022 in SpotNPaste Company.
-- 💞️ I’m looking to collaborate on anything that makes me expert in coding.
-- 📫 How to reach me? I have provided my LinkedIn link in the description.
+- 👋 Hi, I’m Ali Iftikhar (@alikhantareen)
+- 💻 Software Engineer with 3+ years of experience building scalable web applications using modern JavaScript frameworks.
+- 🚀 Skilled in React, Node.js, and full-stack development, with a strong focus on problem-solving and clean, maintainable code.
+- 🌱 Currently working as a JavaScript Developer at SpotNPaste, delivering productivity-focused solutions for global clients.
+- 🤝 Open to collaborating on innovative projects that enhance my expertise and create real-world impact.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ali-iftikhar-445530136/)
+
+.
 
 <!---
 alikhantareen/alikhantareen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
